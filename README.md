@@ -33,3 +33,24 @@ Users can sort products by different filters to enhance their shopping journey.
 A streamlined and intuitive interface ensures smooth and enjoyable interactions throughout the site.
 
 
+### Tech Stack 💻
+
+### React and Vite
+Powering the frontend with fast, modern development using React and Vite.
+
+#### Redux
+Managing the global state of the application efficiently.
+
+#### JSON
+Handling data transfer and storage in a lightweight format.
+
+#### Chakra UI
+A component library for building accessible, responsive, and customizable UI elements.
+
+### npm
+Dependency management for the project.
+
+#### Images 🖼️
+Below are snapshots of different pages within the application:
+
+
