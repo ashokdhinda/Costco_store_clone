@@ -53,6 +53,7 @@ Dependency management for the project.
 #### Images 🖼️
 Below are snapshots of different pages within the application:
 
+![Screenshot 2024-09-18 163523](https://github.com/user-attachments/assets/29983b3f-49f5-46a5-88fa-db2174286e0d)
 
 
 
