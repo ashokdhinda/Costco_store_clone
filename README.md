@@ -67,7 +67,10 @@ Below are snapshots of different pages within the application:
 
 ![Screenshot 2024-09-18 164614](https://github.com/user-attachments/assets/33deb5e2-89d5-49b8-8ab4-e60e2f7f2f24)
 
-![Screenshot 2024-09-18 164614](https://github.com/user-attachments/assets/55e82337-1b42-4db6-beb6-bf43d6f77df1)
+![Screenshot 2024-09-18 164539](https://github.com/user-attachments/assets/c48d25ce-1e6f-4fa6-bd9d-e8300bfed64c)
 
+![Screenshot 2024-09-18 164334](https://github.com/user-attachments/assets/c8520fad-165c-4fcb-b623-b071379f34c5)
+
+![Screenshot 2024-09-18 164558](https://github.com/user-attachments/assets/fbf3d762-53eb-46de-928a-97dfb5a138ca)
 
 
