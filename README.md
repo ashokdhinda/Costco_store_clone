@@ -1,1 +1,0 @@
-# Costco_store_clone
